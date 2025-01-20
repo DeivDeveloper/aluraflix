@@ -1,0 +1,1 @@
+export const api = 'https://aluraflix-api-lake.vercel.app/videos'

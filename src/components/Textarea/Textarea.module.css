@@ -1,0 +1,26 @@
+.textarea {
+    font-family: var(--secondaryFont);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+
+.inputField {
+    padding: 10px;
+    padding-right: 2px;
+    border: 3px solid var(--background);
+    border-radius: 10px;
+    background-color: transparent;
+    color: var(--inputFontColor);
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: var(--secondaryFont);
+    outline: 0;
+}
+
+.inputField:focus {
+    border-color: var(--secondaryFontColor);
+}

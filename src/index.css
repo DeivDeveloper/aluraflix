@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+  --primaryFont: 'Roboto', sans-serif;
+  --secondaryFont: 'Source Sans 3', sans-serif;
+  --background: #262626;
+  --backgroundBase: #191919;
+  --darkBackground: #000000;
+  --primaryTextColor: #ffffff; 
+  --secondaryTextColor: #2271D1;
+  --backColor: #00C86F;
+  --frontColor: #6BD1FF;
+  --mobileColor: #FFBA05;
+  --activeLabelColor: #E53935;
+  --labelColor: #A5A5A5;
+  --inputTextColor: #A5A5A5;
+  --activeFormBorderErrorColor: #E53935;
+  --formBackgroundColor: #191919;
+  --darkModalColor: #03122F;
+  --lightModalColor: #2271D1;
+  --boxShadowColor: #2271D1B2;
+}
+
+body {
+  background-color: var(--darkBackground);
+  color: var(--primaryTextColor);
+  margin: 0;
+  font-family: var(--primaryFont);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

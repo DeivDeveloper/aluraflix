@@ -1,0 +1,110 @@
+[
+  {
+    "id": 2,
+    "title": "Equipo Front End #AluraMás",
+    "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?. En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+    "image": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDoze14OaiA2WUOaVtMzo9bhOet7g",
+    "link": "https://www.youtube.com/embed/rpvrLaBQwgg?si=cNgNY7YhaAsdW6z6",
+    "category": "FRONT END",
+    "color": "#6BD1FF"
+  },
+  {
+    "id": 3,
+    "title": "Cómo volverse un desarrollador Front End #AluraTips",
+    "description": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+    "image": "https://i.ytimg.com/vi/-Ou5c3A225k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmqYF_88kFs6rOylDz0xYlKY4P2A",
+    "link": "https://www.youtube.com/embed/-Ou5c3A225k?si=a00C3cEaE9UoBakk",
+    "category": "FRONT END",
+    "color": "#6BD1FF"
+  },
+  {
+    "id": 4,
+    "title": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+    "description": "¿Cómo un desarrollador Front End utiliza el Figma?. En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+    "image": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOcGhK9ui5bwcQw6a7X9icjuCDuA",
+    "link": "https://www.youtube.com/embed/UuAX5azcvDQ?si=uHlCJ2d8cxztQzGh",
+    "category": "FRONT END",
+    "color": "#6BD1FF"
+  },
+  {
+    "id": 5,
+    "title": "Explorando el poder del Back-End en el Desarrollo Web",
+    "description": "¿Quieres saber más?",
+    "image": "https://i.ytimg.com/vi/Z024LSCMqFk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwvB9ghnDkic-e4dssTUKOltZ6Eg",
+    "link": "https://www.youtube.com/embed/Z024LSCMqFk?si=BJB_8lQRQXPQ80zT",
+    "category": "BACK END",
+    "color": "#00C86F"
+  },
+  {
+    "id": 6,
+    "title": "Simplificando el Back End #AluraTips",
+    "description": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla.",
+    "image": "https://i.ytimg.com/vi/XuSXJ9DUcvY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCd5yQXX18TL9EDYnXYs7NhZa9LvQ",
+    "link": "https://www.youtube.com/embed/XuSXJ9DUcvY?si=WrAfy27nLeAsKPxl",
+    "category": "BACK END",
+    "color": "#00C86F"
+  },
+  {
+    "id": 7,
+    "title": "De Front End a Back End con Java",
+    "description": "En este Alura.tips nuestra instructora Genesys Rondon nos comentará un poco de como fue su experiencia dejando de trabajar con JavaScript y empezando a trabajar con Java.",
+    "image": "https://i.ytimg.com/vi/3aK3Omo2RrU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzrIOa_ajnJfPOTR6oyb1GVNzAEg",
+    "link": "https://www.youtube.com/embed/3aK3Omo2RrU?si=S5E-Gug6jmL90ani",
+    "category": "BACK END",
+    "color": "#00C86F"
+  },
+  {
+    "id": 10,
+    "title": "Café Punto Tech #15 - Sommos: La Revolución Fintech y la Inclusión Financiera en América Latina",
+    "description": "¿Te apasiona la tecnología y quieres descubrir cómo las fintechs están transformando la inclusión financiera en América Latina?. En este episodio de Café Punto Tech, conversamos con Jhonny Ventiades Guillen, Senior Software Engineer y Cofundador & CTO de Sommos, sobre la evolución de Sommos, el impacto de la tecnología en las fintechs, y las oportunidades que este sector ofrece a los futuros profesionales tecnológicos.",
+    "image": "https://i.ytimg.com/vi/IwviU2__9vw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAnrceSWPVkptltF_Y-t3p1EWnKQw",
+    "link": "https://www.youtube.com/embed/IwviU2__9vw?si=DY1x3b83-Ph96Oe5",
+    "category": "INNOVACIÓN",
+    "color": "#FFBA05"
+  },
+  {
+    "id": 12,
+    "title": "#TECHTALKS Transforma tu productividad con IA: Herramientas y Estrategias Clave",
+    "description": "Los avances en IA y cómo utilizarla para mejorar tu productividad.",
+    "image": "https://i.ytimg.com/vi/C6d5gxPKPfU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAs7SGmuX4KnkH_uAHgk-Kx26BSWQ",
+    "link": "https://www.youtube.com/embed/C6d5gxPKPfU?si=osRQC0hXXByfaTQM",
+    "category": "INNOVACIÓN",
+    "color": "#FFBA05"
+  },
+  {
+    "id": 14,
+    "title": "7 Soft Skills más deseadas por las empresas #AluraMás",
+    "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+    "image": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKJl87gbTgiZQQAxYgRBUWbM5KcQ",
+    "link": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=dd0pQ8Sjq8dvMZRi",
+    "category": "GESTIÓN",
+    "color": "#F96DC3"
+  },
+  {
+    "id": 15,
+    "title": "Café Punto Tech #25 - Retrospectiva 2024 y tendencias para el 2025",
+    "description": "Cerramos el 2024 con una retrospectiva llena de aprendizajes, avances tecnológicos y momentos que marcaron la industria. Además, exploramos las principales tendencias para el 2025 que prometen revolucionar el mundo tech: desde inteligencia artificial hasta las nuevas habilidades que necesitarás para estar a la vanguardia.",
+    "image": "https://i.ytimg.com/vi/SBqND4GSZeA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDY63aQGszmTFAFzAjNe2kbdfXsHw",
+    "link": "https://www.youtube.com/embed/SBqND4GSZeA?si=Maw7k0K24qQZmOej",
+    "category": "INNOVACIÓN",
+    "color": "#FFBA05"
+  },
+  {
+    "id": 16,
+    "title": "Como desarrollar tu Marca Personal #AluraMás",
+    "description": "En este video vamos a ayudarte a entender qué es y cuál es la importancia de tener una Marca Personal bien desarrollada.",
+    "image": "https://i.ytimg.com/vi/LAK-RduBJUs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8N_USgmqpQUbNTfL2vWJGBNpgGQ",
+    "link": "https://www.youtube.com/embed/LAK-RduBJUs?si=VXt7akwA5zKIW3Y4",
+    "category": "GESTIÓN",
+    "color": "#F96DC3"
+  },
+  {
+    "id": 17,
+    "title": "Consejos para crear tu Portfolio #aluramás",
+    "description": "¿Quieres destacar como programador y captar la atención de reclutadores y clientes? En este video la instructora Jeanmarie Quijada, te enseñara varios tips esenciales para diseñar y construir un portfolio que muestre tus habilidades y proyectos de manera profesional. ¡Dale Play al video y no te pierdas ninguno de sus consejos!",
+    "image": "https://i.ytimg.com/vi/lKaXteKYbSA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCFVWbocrg98QmbqRFvinzKNNrWSA",
+    "link": "https://www.youtube.com/embed/lKaXteKYbSA?si=g-P3jhPx54VsYnjJ",
+    "category": "GESTIÓN",
+    "color": "#F96DC3"
+  }
+]

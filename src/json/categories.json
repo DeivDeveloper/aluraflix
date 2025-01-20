@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1000,
+        "name": "FRONT END",
+        "color": "#6BD1FF"
+    },
+    {
+        "id": 2000,
+        "name": "BACK END",
+        "color": "#00C86F"
+    },
+    {
+        "id": 3000,
+        "name": "INNOVACIÓN",
+        "color": "#FFBA05"
+    },
+    {
+        "id": 4000,
+        "name": "GESTIÓN",
+        "color": "#F96DC3"
+    }
+]

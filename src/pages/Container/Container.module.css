@@ -1,0 +1,26 @@
+.categories {
+    background-color: var(--backgroundBase);
+    padding-top: 60px;
+    padding-bottom: 45px;
+}
+
+.notification {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  color: white;
+  z-index: 1000;
+}
+
+.notification.success {
+  background-color: #4caf50;
+}
+
+@media (max-width: 767px) {
+  .categories {
+    padding-top: 10px;
+  }
+}
