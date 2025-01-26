@@ -5,17 +5,42 @@ import { useEffect, useState } from "react";
 import { api } from "../../api";
 
 function Player() {
-  const [video, setVideo] = useState();
-  const params = useParams();
-  useEffect(() => {
-    fetch(`${api}?id=${params.id}`)
-      .then((response) => response.json())
-      .then((data) => {
-        setVideo(...data);
-      });
-  }, [params.id]);
+  const [video, setVideo] = useState(null); 
+  const [loading, setLoading] = useState(true); 
+  const [error, setError] = useState(false); 
+  const { id } = useParams(); 
 
-  if (!video) {
+  useEffect(() => {
+    setLoading(true); 
+    setError(false); 
+
+    fetch(`${api}?id=${id}`)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Error al obtener el video");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        if (data && data.length > 0) {
+          setVideo(data[0]); 
+        } else {
+          setError(true); 
+        }
+      })
+      .catch(() => {
+        setError(true); 
+      })
+      .finally(() => {
+        setLoading(false); 
+      });
+  }, [id]);
+
+  if (loading) {
+    return <p>Cargando video...</p>; 
+  }
+
+  if (error || !video) {
     return <NotFound />;
   }
 
@@ -32,7 +57,7 @@ function Player() {
           title={video.title}
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
-          allowFullScreen=""
+          allowFullScreen
         ></iframe>
       </div>
     </section>
